@@ -1,2 +1,2 @@
 # ChatBot
-ChatBot for https://rishikumar.com/
+ChatBot I created. 
